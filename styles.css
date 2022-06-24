@@ -292,4 +292,70 @@ span{
 
 
 @media screen and (max-width:700px) {
+.heading{
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 2%;
+}
 
+.paragraph1{
+  font-size: 1.5rem;
+  font-weight: bold;
+  
+}
+
+.button1,
+.button2{
+  width: 30%;
+}
+
+.para{
+ font-size:1rem ;
+}
+
+.rwb{
+  width:32%;
+
+}
+
+.last{
+  width:20%;
+  margin-bottom: 2%;
+}
+
+h3{
+  font-size:1.8rem;
+}
+
+h4{
+  font-size: 1.8rem;
+}
+
+.first-heading{
+padding-bottom:5%;
+}
+
+
+#project{
+  padding-bottom:5%;
+  margin-bottom:10%;
+}
+
+.text-center{
+  margin-top: 8%;
+}
+
+.image{
+  visibility: hidden;
+}
+
+#main{
+  background-color: #34B3F1;
+}
+
+.chevron{
+  margin-left:15%;
+  padding-bottom: 3%;
+}
+
+}
