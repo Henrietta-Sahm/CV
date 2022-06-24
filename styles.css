@@ -293,37 +293,3 @@ span{
 
 @media screen and (max-width:700px) {
 
-.heading{
-  font-size: 2rem;
-  font-weight: bold;
-  text-align: center;
-  padding-top:3%;
-}
-
-.paragraph1{
-  font-size: 1.5rem;
-  font-weight: bold;
-  text-align: center;
-}
-
-
-.button1,
-.button2,
-.link2{
-  visibility: hidden;
-}
-
-.para{
- font-size:1rem ;
-}
-
-.rwb{
-  width:32%;
-
-}
-
-.last{
-  width:20%;
-  margin-bottom: 2%;
-}
-}
