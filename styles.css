@@ -2,6 +2,71 @@
  margin:0;   
 }
 
+#construction{
+    margin-left:40%;
+    margin-top:12%;   
+}
+
+.repair{
+    width:24%;
+
+    
+    animation-name: rotate;
+    animation-duration: 10s;
+    animation-play-state: running;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .heading{
+     font-size:2rem;
+     line-height:1;
+     color:#a80000;
+
+     animation-duration: 8s;
+     animation-name: slidein;
+     animation-iteration-count:1;
+     animation-direction: alternate;
+   }
+   
+   @keyframes slidein {
+     from {
+       margin-left:100%;
+       width:300%
+     }
+   
+     to {
+       margin-left:0%;
+       width:100%;
+     }
+   }
+
+   @media screen and ( max-width:650px){
+    .heading{
+        font-size: 1.5rem;
+    }
+
+    #construction{
+        margin-left:35%;
+        margin-top:35%;   
+    }
+.repair{
+    position: relative;
+    left: 10%;
+}
+
+   }
+  
+
+
 /* navbar */
 /*
 
