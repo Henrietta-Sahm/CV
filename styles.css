@@ -1,8 +1,10 @@
-body{
+ body{
  margin:0;   
 }
 
 /* navbar */
+/*
+
 .nav-link{
  font-weight: bold;
  font-family:sans ;
@@ -13,9 +15,13 @@ body{
   text-decoration:underline;
   color: #000;
 
+                                          */
+
 }
 
 /* Heading */
+/*
+
 .first-heading{
   margin-top:-32%;
   padding-left: 4%;
@@ -48,9 +54,12 @@ body{
   font-weight: bold;
   padding:1%;
   margin-top: 3%;
-  width:15%;
+  width:15%;                              */
   /* background-color:#00FFAB; */
-  margin-bottom: 6%;
+
+
+/*
+margin-bottom: 6%;
   border:-webkit-border-radius 8px;
   border:-moz-border-radius 8px;
   border:-0-border-radius 8px;
@@ -93,8 +102,11 @@ background-color: #37E2D5;
   top:15px;
   left:15%;
 }
-
+                                                             */
 /* SERVICES */
+
+/*
+
 #services{
   padding:5%;
   margin-bottom:2.5%;
@@ -145,9 +157,11 @@ p{
   left:75%;
   bottom: 45%;
 
-} 
+}                                */
 
 /* project */
+
+/*
 #project{
   background: #C2DED1;
   padding: 2%;
@@ -180,8 +194,13 @@ a{
   font-family: montserrat;
   padding-left: 2%;
 }
+                                   */
+
+
 
 /* CERT */
+
+/*
 .ig{
   width:45%;
   padding-left: 2%;
@@ -194,9 +213,13 @@ h4{
   text-transform: uppercase;
   margin:2% 0; 
   font-weight: bold;
-}
+}                                    */
+
+
 
 /* contact me */
+
+/*
 #contact{
  margin-top: 4%;
 }
@@ -359,3 +382,4 @@ padding-bottom:5%;
 }
 
 }
+                                */
