@@ -52,7 +52,7 @@
 
    @media screen and ( max-width:650px){
     .heading{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     #construction{
@@ -61,7 +61,7 @@
     }
 .repair{
     position: relative;
-    left: 10%;
+    left: 15%;
 }
 
    }
